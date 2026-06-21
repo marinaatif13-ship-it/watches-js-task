@@ -1,0 +1,380 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+
+
+h1{
+    align-items: center;
+    margin-left: 600px;
+    margin-top: 20px;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+}
+hr{
+    margin-left: 700px;
+    width: 100px;
+    height: 2px;
+    color:#BA5A5A;
+}
+
+.section1{
+    padding: 20px;
+border-radius:12px ;
+flex-wrap: wrap;
+gap: 20px;
+display: flex;
+ justify-content: center;
+}
+
+.div1 {
+    
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+}
+.div1:hover{
+    transition: 3s;
+}
+
+.div2 {
+
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+}
+
+/*.section1{
+    width: 180px;
+    height: 250px;
+    border-radius: 12px;
+    overflow: hidden;
+    padding: 15px;
+}*/
+
+
+
+.div3 {
+    
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+}
+
+
+.div4 {
+
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+}
+
+
+.div5 {
+    
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+
+}
+
+
+.section2{
+    padding: 20px;
+border-radius:12px ;
+flex-wrap: wrap;
+gap: 20px;
+display: flex;
+ justify-content: center;
+}
+
+
+h3{
+    margin-left: 10px;
+    font-size: 16px;
+
+}
+p{
+    margin-left:10px ;
+    color: black;
+}
+.div6{
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+}
+img{
+    background-size: cover;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    
+}
+.far-faheart{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+}
+.add-to-cart-btn{
+
+width: 80%; 
+margin-left: 12px;
+margin-top: 12px; 
+padding: 8px; 
+background: black; 
+color: white;
+ border: none;
+  border-radius: 6px; 
+  cursor: pointer;
+}
+.add-to-cart-btn:hover{
+    opacity: 0.8;
+}
+
+.div7 {
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+
+}
+
+
+.div8 {
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+
+}
+
+.div9 {
+        position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+}
+
+
+.div10 {
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+
+}
+
+
+.div11{
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+
+}
+
+.div12{
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+
+}
+
+.div13 {
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+
+}
+.div14 {
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+
+}
+.div15{
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+
+
+}
+.div16{
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+}
+.div17{
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+}
+.div18{
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+}
+.div19{
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+}
+.div20{
+
+    position: relative;
+width: 250px;
+height:350px;
+overflow: hidden;
+border-radius:12px;
+flex-wrap: wrap;
+gap: 20px;
+box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 8px ;
+background:#BA5A5A;
+}
